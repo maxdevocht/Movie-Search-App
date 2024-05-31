@@ -1,10 +1,12 @@
-import Main from "./components/Main"
+import SearchMovie from "./components/SearchMovie"
+import Header from "./components/Header"
 
 function App() {
 
   return (
     <>
-      <Main />
+      <Header />
+      <SearchMovie />
     </>
   )
 }

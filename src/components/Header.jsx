@@ -1,7 +1,7 @@
 const Header = () => {
   return (
     <div className="my-0 mx-auto max-w-5xl p-10">
-      <h1 className="text-[2rem] text-center">React Movie Search</h1>
+      <h1 className="font-['Caveat'] text-[2rem] text-center">Your Movie Search App</h1>
     </div>
   )
 }
